@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-programs",
+  "version": "1.0.0",
+  "description": "its a nodejs tuturial",
+  "license": "ISC",
+  "author": "MD",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2",
+    "nodemon": "^3.1.11",
+    "prompt-sync": "^4.2.0"
+  }
+}
